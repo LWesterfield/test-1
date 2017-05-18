@@ -37,4 +37,6 @@ here is an image:
 
 commit = snapshot of current version. records who you are, what time you made the changes, which changes were made, email and message.
 
-add something new. 
+add something new.
+
+something else new. 
